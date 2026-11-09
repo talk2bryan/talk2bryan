@@ -1,6 +1,6 @@
-### Hi, I'm Bryan 👋
+### Hi, I'm Bryan
 
-I'm a software engineer who builds tools to get rid of tedious work: scripts,
+I'm a Computer Scientist and software engineer who builds tools to get rid of tedious work: scripts,
 CLIs and small services that take something messy and make it just work. If I
 have to do something by hand twice, I usually end up writing a tool for it.
 
@@ -8,7 +8,7 @@ I care a lot about **owning my own data**. Most of my side projects start
 with a service that holds my photos, contacts or messages in a format nobody
 can use, and end with a tool that gets them back out properly.
 
-Away from the keyboard I love to travel ✈️, which is part of why I prefer
+Away from the keyboard I love to travel, which is part of why I prefer
 working remotely. Give me a good connection and a clear problem and I'll do
 my best work from anywhere.
 
@@ -47,7 +47,7 @@ be rebuilt from the docs.
 
 I have a B.Sc. and an M.Sc. in Computer Science from the University of
 Manitoba. I taught there as a sessional instructor, and before that I was a
-teaching assistant for 14 courses between 2014 and 2018: intro programming,
+teaching assistant for 14 courses between 2014 and 2020: intro programming,
 computer systems, databases, programming practices and software engineering. I still enjoy
 explaining things and pairing with people who are learning. Some of the
 material is in [teaching-materials](https://github.com/talk2bryan/teaching-materials).

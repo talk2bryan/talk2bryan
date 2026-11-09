@@ -58,7 +58,8 @@ I welcome collaborations, especially on projects that free people from
 companies trying to lock them into an ecosystem: export and migration tools,
 open formats, self-hostable alternatives, and anything that makes switching
 platforms painless. If you're working on something like that, or have an
-idea, open an issue or get in touch on [LinkedIn](https://www.linkedin.com/in/bryanwodi).
+idea, start a thread in [Discussions](https://github.com/talk2bryan/talk2bryan/discussions).
+For anything private, my email is on [my website](https://talk2bryan.github.io).
 
 #### Tools I reach for
 
@@ -76,6 +77,7 @@ idea, open an issue or get in touch on [LinkedIn](https://www.linkedin.com/in/br
 
 [Website](https://talk2bryan.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/bryanwodi) ·
+[Discussions](https://github.com/talk2bryan/talk2bryan/discussions) ·
 [Google Scholar](https://scholar.google.ca/citations?user=rDiIWTQAAAAJ&hl=en)
 
 If something I built saved you some time, you can buy me a coffee:
